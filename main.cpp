@@ -1,7 +1,7 @@
 /* 
  * Recombines forward linked list
  * Complexity: O(n), linear
- * All operations (including cycle condition check) in cycles is O(1)
+ * All operations (including cycle condition check) in cycles are O(1)
  */
 
 #include <forward_list>
